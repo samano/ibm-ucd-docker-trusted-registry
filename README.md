@@ -1,2 +1,3 @@
-# ibm-ucd-docker-trusted-registry
-Proof of technology containing UrbanCode Deploy, Docker Trusted Registry, and a sample application
+
+
+docker run -p 8443:8443 -p 8080:8080 --name UCD urbancode-deploy
