@@ -10,7 +10,7 @@ MAINTAINER Nick Caley <ncaley@us.ibm.com>
 
 # This build expects the ibm-ucd-agent.zip to be in the current directory
 # as well as an install.properties file.
-ADD ibm-ucd-agent.zip /tmp/ibm-ucd-agent.zip
+ADD IBM_UCD_SERVER_6.1.1.8.zip IBM_UCD_SERVER_6.1.1.8.zip
 ADD install.properties /tmp/install.properties
 
 
